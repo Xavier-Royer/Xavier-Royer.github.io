@@ -1,4 +1,2 @@
 Xavier Royer's Personal Wesbite.
-
-Stoppped at Lab Step 15:
-gtit
+[Visit it Here!](https://<username>.github.io)
