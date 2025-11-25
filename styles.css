@@ -136,7 +136,7 @@ main {
 }
 
 /*background image overlay*/
-.home-page body::before {
+.home-page body::before { 
   content: "";
   position: absolute;
   top: 0;
